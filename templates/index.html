@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>CSCI ECU</title>
+</head>
+<body>
+<table>
+    <tr>
+        <th>Fruit 1</th>
+        <th>Fruit 2</th>
+    </tr>
+    {% for row in sql_table %}
+        <tr>
+            {% for col in row %}
+                <td>{{ col }}</td>
+            {% endfor %}
+        </tr>
+    {% endfor %}
+</table>
+</body>
+</html>

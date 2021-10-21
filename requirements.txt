@@ -1,0 +1,4 @@
+pip3
+Jinja2
+psycopg2-binary
+flask
