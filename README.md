@@ -3,7 +3,7 @@ This project shows how we can connect `PostgreSQL` with `flask` and show `SELECT
 | Members   |
 |-----------|
 | Alex Lowe |
-|           |
+|Isaiah Wells|
 
 ## Quick Start
 ### Local Test Setup
