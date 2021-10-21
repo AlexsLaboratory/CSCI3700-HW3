@@ -1,5 +1,10 @@
 This project shows how we can connect `PostgreSQL` with `flask` and show `SELECT` results in an HTML table. It also shows how to insert data into the database
 
+| Members   |
+|-----------|
+| Alex Lowe |
+|           |
+
 ## Quick Start
 ### Local Test Setup
 First, we need to install a Python 3 virtual environment with:
